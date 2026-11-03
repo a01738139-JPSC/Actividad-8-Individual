@@ -1,0 +1,10 @@
+Variable X,Variable Y,Modelo,R2 (determinación),R (correlación)
+existencias,valor_total_inventario,Lineal (referencia),0.5297,0.7278
+existencias,valor_total_inventario,Cuadrática,0.5792,0.7611
+existencias,valor_total_inventario,Exponencial,0.5741,0.7577
+costo_unitario,valor_total_inventario,Lineal (referencia),0.0914,0.3024
+costo_unitario,valor_total_inventario,Cuadrática,0.1021,0.3195
+costo_unitario,valor_total_inventario,Exponencial,0.1039,0.3224
+existencias,costo_unitario,Lineal (referencia),0.0581,0.241
+existencias,costo_unitario,Cuadrática,0.0583,0.2414
+existencias,costo_unitario,Exponencial,0.0583,0.2414
